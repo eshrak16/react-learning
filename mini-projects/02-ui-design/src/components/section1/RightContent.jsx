@@ -1,5 +1,5 @@
 import React from 'react'
-import 'remixicon/fonts/remixicon.css'
+
 import RightCard from './RightCard'
 
 const RightContent = (props) => {

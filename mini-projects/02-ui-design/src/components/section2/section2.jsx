@@ -1,9 +1,9 @@
 import React from 'react'
 
-const section2 = () => {
+const Section2 = () => {
   return (
-    <div className='h-screen w-full '><h1></h1></div>
+    <div className='h-screen w-full bg-gray-900'>Section2</div>
   )
 }
 
-export default section2
+export default Section2
